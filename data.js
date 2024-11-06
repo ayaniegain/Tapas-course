@@ -1,0 +1,53 @@
+[
+    {
+      name: "Buddy",
+      species: "Dog",
+      breed: "Golden Retriever",
+      age: 3,
+      color: "Golden",
+      isVaccinated: true,
+      favoriteFoods: ["Chicken", "Biscuits", "Peanut Butter"],
+      imageUrl: "https://placekitten.com/150/150",
+    },
+    {
+      name: "Whiskers",
+      species: "Cat",
+      breed: "Persian",
+      age: 2,
+      color: "White",
+      isVaccinated: false,
+      favoriteFoods: ["Fish", "Milk", "Tuna"],
+      imageUrl: "https://placekitten.com/150/150",
+    },
+    {
+      name: "Coco",
+      species: "Bird",
+      breed: "Parrot",
+      age: 1,
+      color: "Green",
+      isVaccinated: true,
+      favoriteFoods: ["Seeds", "Fruits", "Nuts"],
+      imageUrl: "https://placekitten.com/150/150",
+    },
+    {
+      name: "Shadow",
+      species: "Dog",
+      breed: "German Shepherd",
+      age: 4,
+      color: "Black",
+      isVaccinated: true,
+      favoriteFoods: ["Meat", "Bones", "Carrots"],
+      imageUrl: "https://placekitten.com/150/150",
+    },
+    {
+      name: "Nibbles",
+      species: "Hamster",
+      breed: "Syrian",
+      age: 1,
+      color: "Brown",
+      isVaccinated: false,
+      favoriteFoods: ["Lettuce", "Apples", "Nuts"],
+      imageUrl: "https://placekitten.com/150/150",
+    }
+  ];
+  
