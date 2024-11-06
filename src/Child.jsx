@@ -2,7 +2,7 @@ function ChildCount({ count, onIncrementCount }) {
   return (
     <div>
       <h2> child count {count}</h2>
-      <button onClick={onIncrementCount}>Child Count</button>
+      <button onClick={onIncrementCount}>Click from child</button>
     </div>
   );
 }
